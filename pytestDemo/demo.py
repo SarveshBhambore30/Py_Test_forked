@@ -16,7 +16,7 @@ print(result)
 
 
 dict_stu = { [ { "name": "Alice", "scores": [85, 92, 88] },
-               { "name": "Bob", "scores": [79, 85, 90] },
+               { "name": "RAJ", "scores": [79, 85, 90] },
                { "name": "Charlie", "scores": [95, 100, 93] } ] }
 
 dict_stu[]
